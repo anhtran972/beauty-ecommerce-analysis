@@ -73,7 +73,7 @@ Beauty data/
 ## Next Steps
 
 - [ ] Review cleaned data in **Excel / Power BI**
-- [ ] Run `02_analysis.py` for deeper insights (cohort, RFM, category ranking)
+- [ ] Run `data_cleaning.py` for deeper insights (cohort, RFM, category ranking)
 - [ ] Build **Power BI dashboard** — KPIs, trend charts, category breakdown
 
 ---
