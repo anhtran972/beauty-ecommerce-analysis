@@ -23,16 +23,16 @@ This project analyzes transactional sales data from a beauty e-commerce platform
 
 ```
 Beauty data/
-├── raw/
-│   └── beauty_sales_raw.csv           # Original uncleaned dataset
+├── dashboard/
+│   └── executive_summary.png           
 ├── cleaned/
 │   ├── beauty_sales_cleaned.csv       # Main cleaned dataset (14,611 rows × 43 cols)
 │   ├── summary_statistics.csv         # Descriptive statistics for numeric columns
 │   ├── category_summary.csv           # Revenue & order breakdown by product category
 │   └── monthly_trend.csv             # Aggregated monthly revenue trend
-└── scripts/
+└── analysis/
     ├── 01_cleaning.py                 # Data cleaning pipeline
-    └── 02_analysis.py                 # Deeper EDA & insights
+
 ```
 
 ---
